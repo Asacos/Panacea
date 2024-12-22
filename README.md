@@ -10,6 +10,10 @@ To intall this program:
 
 2. Create new user 'tinyroot' with password '123'
 
-3. Open src and pom.xml in Intellij IDEA
+3. Install maven on your computer
 
-4. Download and run Apache tomcat server
+4. Install "Community server connectors" and "Extansion pack for java" extensions in vscode
+
+5. Build war file with maven
+
+6. Set war file to Community server 
